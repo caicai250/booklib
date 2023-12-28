@@ -1,0 +1,16 @@
+server:
+  port: 9527
+  application:
+    name: qslib
+  servlet:
+    context-path: /qslib
+logging:
+  level:
+    cn.jay.repository: trace
+
+spring:
+  jpa:
+    hibernate:
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+    show-sql: true
