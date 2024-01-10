@@ -2,5 +2,8 @@
 <project version="4">
   <component name="JpaBuddyIdeaProjectConfig">
     <option name="defaultUnitInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="64e4339e-50b7-4295-b15a-69e06fab8086" />
+    <option name="reLastEntityCreationPackage" value="qslib-security/src/main/java/com/cct/qslib/security/entity" />
+    <option name="newEntityIdStrategy" />
   </component>
 </project>
