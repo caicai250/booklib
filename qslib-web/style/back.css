@@ -1,0 +1,31 @@
+.login_bg {
+    background-image: url(../static/login_bg.jpeg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    moz-background-size: cover;
+    min-height: 100vh;
+}
+
+.login_out {
+    position: absolute;
+    top: 50%;
+    left: 73.5%;
+    transform: translate(-50%, -50%);
+}
+
+.login_content {
+    width: 389px;
+    height: 272px;
+    background-color: cornsilk;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login_form {
+    width: 300px;
+}
+
