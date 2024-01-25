@@ -592,6 +592,7 @@
       <list>
         <option value="$PROJECT_DIR$/qslib/pom.xml" />
         <option value="$PROJECT_DIR$/qslib-security/pom.xml" />
+        <option value="$PROJECT_DIR$/qslib-core/pom.xml" />
       </list>
     </option>
   </component>

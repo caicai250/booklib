@@ -1,4 +1,4 @@
-package com.cct.qslib.security.enums;
+package com.cct.qslibcore.enums;
 
 /**
  * 响应状态码

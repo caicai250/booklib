@@ -1,4 +1,4 @@
-package com.cct.qslib.security.exception.handler;
+package com.cct.qslibcore.exception.handler;
 
 
 import com.cct.qslib.security.enums.ResponseCodeEnum;

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/qslib/qslib.iml" filepath="$PROJECT_DIR$/qslib/qslib.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/qslib-boot.iml" filepath="$PROJECT_DIR$/.idea/qslib-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qslib-core/qslib-core.iml" filepath="$PROJECT_DIR$/qslib-core/qslib-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/qslib-security/qslib-security.iml" filepath="$PROJECT_DIR$/qslib-security/qslib-security.iml" />
     </modules>
   </component>

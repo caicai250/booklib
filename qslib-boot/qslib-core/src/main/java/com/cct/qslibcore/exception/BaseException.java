@@ -1,6 +1,6 @@
-package com.cct.qslib.security.exception;
+package com.cct.qslibcore.exception;
 
-import com.cct.qslib.security.enums.ResponseCodeEnum;
+import com.cct.qslibcore.enums.ResponseCodeEnum;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 
