@@ -1,9 +1,8 @@
 package com.cct.qslibcore.exception.handler;
 
-
-import com.cct.qslib.security.enums.ResponseCodeEnum;
-import com.cct.qslib.security.exception.BaseException;
-import com.cct.qslib.security.res.ResultDTO;
+import com.cct.qslibcore.enums.ResponseCodeEnum;
+import com.cct.qslibcore.exception.BaseException;
+import com.cct.qslibcore.res.ResultDTO;
 import jakarta.servlet.http.HttpServletResponse;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;

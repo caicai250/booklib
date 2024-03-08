@@ -1,9 +1,14 @@
 package com.cct.qslib.ques.controller;
 
 
+import com.cct.qslib.ques.dto.QuesDTO;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 import org.springframework.web.bind.annotation.RestController;
+
+import java.util.ArrayList;
 
 /**
  * <p>
@@ -16,5 +21,11 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/ques")
 public class QuesMainController {
+    @GetMapping("/getQuesById")
+    public QuesDTO getQuesById() {
+        QuesDTO quesDTO=new QuesDTO();
+        quesDTO.setQuesAnswerList(new ArrayList<>());
+        return quesDTO;
+    }
 
 }

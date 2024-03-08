@@ -1,6 +1,6 @@
-package com.cct.qslib.security.res;
+package com.cct.qslibcore.res;
 
-import com.cct.qslib.security.enums.ResponseCodeEnum;
+import com.cct.qslibcore.enums.ResponseCodeEnum;
 import lombok.Data;
 
 import java.io.Serializable;
